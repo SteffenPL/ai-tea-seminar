@@ -1,0 +1,14 @@
+[[upcoming]]
+date = "2026-06-25"
+time = "11:30am - 12:15pm"
+room = "Seminar Room F1 ASHBi Building B"
+topic = "Open source models via Ollama"
+speaker = "Steffen Plunder"
+
+# Add past seminars here after they happen.
+# [[past]]
+# date = "2026-07-02"
+# time = "11:30am - 12:15pm"
+# room = "Seminar Room F1 ASHBi Building B"
+# topic = "Example topic"
+# speaker = "Example Speaker"
