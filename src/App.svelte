@@ -25,20 +25,19 @@
 
 <main class="page-shell">
   <section class="hero" aria-labelledby="page-title">
-    <p class="eyebrow">Weekly informal research tools seminar</p>
     <h1 id="page-title">AI Tea Seminar</h1>
     <p class="intro">
-      Weekly update on new AI tools for research. 
-      The scope is to learn about AI tools useful in research, update ourselves on the fast growing
-      landscape and share useful patterns.
+      Bi-weekly update on new AI tools for research. 
+      The scope is to learn about AI tools which are useful in research, update ourselves on the fast growing
+      landscape.
     </p>
     <p class="intro">  
       <b>Format:</b> Each seminar is composed of a short demonstration talk followed by an open discussion.
-      Instead of talks with slides, we aim at hands-on demonstrations on the screen: 
-      <i>Show us what you use and how you actually use it.</i>
+      Instead of talks with slides, we have hands-on demonstrations on the screen: 
+      <i>Show us which AI tools you use and how you actually use it.</i>
     </p>
     <p class="intro">  
-      <b>Call:</b> Please contact me if you would like to give a short demo of some tools.
+      <b>Call:</b> Please contact me if you would like to present in the seminar.
     </p>
   </section>
 
