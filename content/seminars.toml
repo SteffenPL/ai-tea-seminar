@@ -7,8 +7,8 @@ speaker = "Steffen Plunder"
 abstract = """
 Can you write and run a complete analysis pipeline with a few LINE messages?
 If you know your goal well enough, then probably yes.
-I will show how to set up autonomous agents like OpenClaw or Hermes Agent in secure environments
-with open source models.
+I will show how to set up autonomous agents like OpenClaw or Hermes Agent in secure environments (NemoClaw)
+and with open source models (Ollama).
 """
 
 # Add past seminars here after they happen.
