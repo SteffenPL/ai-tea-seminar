@@ -53,7 +53,10 @@
           <div class="seminar-copy">
             <h3>{seminar.topic}</h3>
             <p>{seminar.speaker}</p>
-            <p class="discussion">+ discussion</p>
+            {#if seminar.abstract}
+              <p class="abstract">{seminar.abstract}</p>
+            {/if}
+            <p class="discussion">+ open discussion</p>
           </div>
           <div class="seminar-meta">
             <time datetime={seminar.date}>{seminar.date}</time>
@@ -78,6 +81,9 @@
             <div class="seminar-copy">
               <h3>{seminar.topic}</h3>
               <p>{seminar.speaker}</p>
+              {#if seminar.abstract}
+                <p class="abstract">{seminar.abstract}</p>
+              {/if}
               <p class="discussion">+ discussion</p>
             </div>
             <div class="seminar-meta">
