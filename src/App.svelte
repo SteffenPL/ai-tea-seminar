@@ -27,14 +27,14 @@
   <section class="hero" aria-labelledby="page-title">
     <h1 id="page-title">AI Tea Seminar</h1>
     <p class="intro">
-      Bi-weekly update on new AI tools for research. 
-      The scope is to learn about AI tools which are useful in research, update ourselves on the fast growing
+      A bi-weekly update on new AI tools for research.
+      The scope is to learn about AI tools that are useful in research and update ourselves on the fast-growing
       landscape.
     </p>
     <p class="intro">  
       <b>Format:</b> Each seminar is composed of a short demonstration talk followed by an open discussion.
-      Instead of talks with slides, we have hands-on demonstrations on the screen: 
-      <i>Show us which AI tools you use and how you actually use it.</i>
+      Instead of talks with slides, we have hands-on demonstrations on the screen:
+      <i>Show us which AI tools you use and how you actually use them.</i>
     </p>
     <p class="intro">  
       <b>Call:</b> Please contact me if you would like to present in the seminar.

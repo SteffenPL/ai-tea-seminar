@@ -5,7 +5,7 @@ room = "Meeting Room F3, Building B"
 topic = "Open source models via Ollama"
 speaker = "Steffen Plunder"
 abstract = """
-Up until now, the most powerful AI models were closed and access either limited to external harness or extremely expensive. But recently released open weight models (notably GLM 5.2) change this, allowing to use frontier LLMs with open source tools and respect confidentiality.
+Up until now, the most powerful AI models were closed, and access was either limited to external harnesses or extremely expensive. But recently released open-weight models (notably GLM 5.2) change this, allowing us to use frontier LLMs with open source tools while respecting confidentiality.
 """
 
 # Add past seminars here after they happen.
