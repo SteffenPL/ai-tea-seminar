@@ -2,10 +2,13 @@
 date = "2026-06-25"
 time = "10:45am - 11:30am"
 room = "Meeting Room F3, Building B"
-topic = "Open source models via Ollama"
+topic = "OpenClaw/Hermes Agent: Secure Setup for AI Assistants"
 speaker = "Steffen Plunder"
 abstract = """
-Up until now, the most powerful AI models were closed, and access was either limited to external harnesses or extremely expensive. But recently released open-weight models (notably GLM 5.2) change this, allowing us to use frontier LLMs with open source tools while respecting confidentiality.
+Can you write and run a complete analysis pipeline with a few LINE messages?
+If you know your goal well enough, then probably yes.
+I will show how to set up autonomous agents like OpenClaw or Hermes Agent in secure environments
+with open source models.
 """
 
 # Add past seminars here after they happen.
