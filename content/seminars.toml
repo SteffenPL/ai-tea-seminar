@@ -1,4 +1,14 @@
 [[upcoming]]
+date = "2026-07-09"
+time = "10:45am - 11:30am"
+room = "Meeting Room F3, Building B"
+topic = "The Eye of the (Brain)storm"
+speaker = "Killian Meehan"
+abstract = """
+How to brainstorm and plan with AI coding assistants. 
+"""
+
+[[past]]
 date = "2026-06-25"
 time = "10:45am - 11:30am"
 room = "Meeting Room F3, Building B"
