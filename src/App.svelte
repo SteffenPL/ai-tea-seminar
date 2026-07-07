@@ -84,7 +84,6 @@
               {#if seminar.abstract}
                 <p class="abstract">{seminar.abstract}</p>
               {/if}
-              <p class="discussion">+ discussion</p>
             </div>
             <div class="seminar-meta">
               <time datetime={seminar.date}>{seminar.date}</time>
