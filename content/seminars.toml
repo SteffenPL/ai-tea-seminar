@@ -1,11 +1,11 @@
 [[upcoming]]
 date = "2026-07-09"
-time = "10:45am - 11:30am"
-room = "Meeting Room F3, Building B"
-topic = "The Eye of the (Brain)storm"
+time = "10:00am - 11:00am"
+room = "Meeting Room F1, Building B"
+topic = "Brainstorming with Agents"
 speaker = "Killian Meehan"
 abstract = """
-How to brainstorm and plan with AI coding assistants. 
+For when you know what needs to be done but not necessarily how to do it.
 """
 
 [[past]]
